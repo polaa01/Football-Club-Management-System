@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="DeleteBtnKorisniciUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DialogForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="InputForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="InsertBtnKorisniciUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="InsertPlayerForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="InsertStatsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MenuOptionUC0.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="MenuOptionUC1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="MenuOptionUC2.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="MenuOptionUC3.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="MenuOptionUC4.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="StretchImageButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="UpdatePlayerForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UpdateStatsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UpdateUserForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Update="Resources\Resource1.en.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Resources\Resource1.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+</Project>
